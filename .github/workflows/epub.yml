@@ -1,0 +1,32 @@
+name: Export EPUB
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['book.json', 'chapters/**', 'appendices/**', 'assets/**', 'scripts/build_book.py', '.github/workflows/epub.yml']
+permissions:
+  contents: read
+concurrency:
+  group: epub-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  export:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Install export tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install --no-install-recommends -y pandoc inkscape fonts-noto-cjk
+          python -m pip install Pillow==11.3.0
+      - run: python scripts/build_book.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Investment-From-Money-to-Markets
+          path: build/Investment-From-Money-to-Markets.epub
+          if-no-files-found: error
+          retention-days: 90
