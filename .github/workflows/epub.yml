@@ -1,4 +1,5 @@
 name: Export EPUB
+# Independent from website deployment.
 on:
   workflow_dispatch:
   push:
