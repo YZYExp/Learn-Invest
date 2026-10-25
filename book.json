@@ -1,0 +1,200 @@
+{
+  "title": "看懂投资：从一笔钱到整个市场",
+  "subtitle": "面向普通读者的投资基础图解",
+  "language": "zh-CN",
+  "edition_date": "2026-10-23",
+  "chapters": [
+    {
+      "id": "01-money",
+      "title": "钱为什么需要安排",
+      "part": 1,
+      "part_title": "认识钱与投资",
+      "source": "chapters/01-money.md",
+      "slug": "01-money"
+    },
+    {
+      "id": "02-returns",
+      "title": "收益是怎样计算的",
+      "part": 1,
+      "part_title": "认识钱与投资",
+      "source": "chapters/02-returns.md",
+      "slug": "02-returns"
+    },
+    {
+      "id": "03-risk",
+      "title": "风险不只是价格下跌",
+      "part": 1,
+      "part_title": "认识钱与投资",
+      "source": "chapters/03-risk.md",
+      "slug": "03-risk"
+    },
+    {
+      "id": "04-time",
+      "title": "时间、复利与投资边界",
+      "part": 1,
+      "part_title": "认识钱与投资",
+      "source": "chapters/04-time.md",
+      "slug": "04-time"
+    },
+    {
+      "id": "05-cash-bonds",
+      "title": "现金与债券：钱借给了谁",
+      "part": 2,
+      "part_title": "认识各类资产",
+      "source": "chapters/05-cash-bonds.md",
+      "slug": "05-cash-bonds"
+    },
+    {
+      "id": "06-stocks",
+      "title": "股票：拥有一家公司的小部分",
+      "part": 2,
+      "part_title": "认识各类资产",
+      "source": "chapters/06-stocks.md",
+      "slug": "06-stocks"
+    },
+    {
+      "id": "07-funds",
+      "title": "基金、指数与ETF",
+      "part": 2,
+      "part_title": "认识各类资产",
+      "source": "chapters/07-funds.md",
+      "slug": "07-funds"
+    },
+    {
+      "id": "08-other-assets",
+      "title": "房地产、黄金与其他资产",
+      "part": 2,
+      "part_title": "认识各类资产",
+      "source": "chapters/08-other-assets.md",
+      "slug": "08-other-assets"
+    },
+    {
+      "id": "09-primary-secondary",
+      "title": "从融资到交易：两个市场",
+      "part": 3,
+      "part_title": "看懂市场运作",
+      "source": "chapters/09-primary-secondary.md",
+      "slug": "09-primary-secondary"
+    },
+    {
+      "id": "10-orders",
+      "title": "订单、成交与流动性",
+      "part": 3,
+      "part_title": "看懂市场运作",
+      "source": "chapters/10-orders.md",
+      "slug": "10-orders"
+    },
+    {
+      "id": "11-market-rules",
+      "title": "A股、港股与美股：先看规则",
+      "part": 3,
+      "part_title": "看懂市场运作",
+      "source": "chapters/11-market-rules.md",
+      "slug": "11-market-rules"
+    },
+    {
+      "id": "12-leverage",
+      "title": "杠杆、做空与衍生品",
+      "part": 3,
+      "part_title": "看懂市场运作",
+      "source": "chapters/12-leverage.md",
+      "slug": "12-leverage"
+    },
+    {
+      "id": "13-business",
+      "title": "公司靠什么赚钱",
+      "part": 4,
+      "part_title": "理解公司与价格",
+      "source": "chapters/13-business.md",
+      "slug": "13-business"
+    },
+    {
+      "id": "14-statements",
+      "title": "读懂三张财务报表",
+      "part": 4,
+      "part_title": "理解公司与价格",
+      "source": "chapters/14-statements.md",
+      "slug": "14-statements"
+    },
+    {
+      "id": "15-valuation",
+      "title": "价格、市值与估值",
+      "part": 4,
+      "part_title": "理解公司与价格",
+      "source": "chapters/15-valuation.md",
+      "slug": "15-valuation"
+    },
+    {
+      "id": "16-shareholder",
+      "title": "分红、回购与增发",
+      "part": 4,
+      "part_title": "理解公司与价格",
+      "source": "chapters/16-shareholder.md",
+      "slug": "16-shareholder"
+    },
+    {
+      "id": "17-rates",
+      "title": "利率如何连接整个市场",
+      "part": 5,
+      "part_title": "理解市场涨跌",
+      "source": "chapters/17-rates.md",
+      "slug": "17-rates"
+    },
+    {
+      "id": "18-cycle",
+      "title": "经济、盈利与市场周期",
+      "part": 5,
+      "part_title": "理解市场涨跌",
+      "source": "chapters/18-cycle.md",
+      "slug": "18-cycle"
+    },
+    {
+      "id": "19-flows",
+      "title": "资金出逃时谁在买",
+      "part": 5,
+      "part_title": "理解市场涨跌",
+      "source": "chapters/19-flows.md",
+      "slug": "19-flows"
+    },
+    {
+      "id": "20-narratives",
+      "title": "预期、新闻与泡沫",
+      "part": 5,
+      "part_title": "理解市场涨跌",
+      "source": "chapters/20-narratives.md",
+      "slug": "20-narratives"
+    },
+    {
+      "id": "21-plan",
+      "title": "从目标和期限开始",
+      "part": 6,
+      "part_title": "建立投资方法",
+      "source": "chapters/21-plan.md",
+      "slug": "21-plan"
+    },
+    {
+      "id": "22-allocation",
+      "title": "资产配置、仓位与再平衡",
+      "part": 6,
+      "part_title": "建立投资方法",
+      "source": "chapters/22-allocation.md",
+      "slug": "22-allocation"
+    },
+    {
+      "id": "23-execution",
+      "title": "定投、成本与执行",
+      "part": 6,
+      "part_title": "建立投资方法",
+      "source": "chapters/23-execution.md",
+      "slug": "23-execution"
+    },
+    {
+      "id": "24-review",
+      "title": "行为偏差、复盘与防骗",
+      "part": 6,
+      "part_title": "建立投资方法",
+      "source": "chapters/24-review.md",
+      "slug": "24-review"
+    }
+  ]
+}
