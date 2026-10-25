@@ -1,0 +1,27 @@
+{
+  "checked_at": "2026-10-23",
+  "scope": "chapters 09-12",
+  "sources": [
+    "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-17",
+    "https://live.deutsche-boerse.com/en/know-how/glossary/secondary-market",
+    "https://www.sec.gov/resources-small-businesses/glossary",
+    "https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/types-orders",
+    "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-15",
+    "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/universal/c/c_20260424_10816492.shtml",
+    "https://www.hkex.com.hk/Services/Settlement-and-Depository/Settlement?sc_lang=en",
+    "https://www.hkex.com.hk/Services/Settlement-and-Depository/T1-Settlement-for-the-Hong-Kong-Cash-Market?sc_lang=en",
+    "https://www.hkex.com.hk/Global/Exchange/FAQ/Securities-Market/Trading?sc_lang=en",
+    "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/new-t1-settlement-cycle-what-investors-need-know-investor-bulletin",
+    "https://www.finra.org/investors/insights/guardrails-market-volatility",
+    "https://www.hkex.com.hk/-/media/HKEX-Market/Mutual-Market/Stock-Connect/Getting-Started/Information-Booklet-and-FAQ/Information-Book-for-Investors/Investor_Book_En.pdf",
+    "https://www.finra.org/investors/insights/margin-calls",
+    "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-29",
+    "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-51",
+    "https://www.finra.org/investors/investing/investment-products/options"
+  ],
+  "verification_notes": [
+    "SSE 2026 revised rules retrieved as DOCX and text extracted: 3.1.4, 3.3.13 and 6.6 verified.",
+    "HKEX current settlement T+2 distinguished from targeted T+1 transition in 2H 2028.",
+    "All numerical cases are hypothetical original arithmetic, not historical returns."
+  ]
+}

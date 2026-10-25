@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="760" viewBox="0 0 720 760" role="img" aria-label="图5  一张债券的三年现金流">
+<rect width="720" height="760" fill="#F6F3EC"/>
+<style>text{font-family:"Noto Serif CJK SC","Microsoft YaHei",sans-serif;fill:#203340} .small{font-size:18px} .body{font-size:22px} .title{font-size:30px;font-weight:700}</style>
+<text x="40" y="58" class="title">图5  一张债券的三年现金流</text>
+<text x="40" y="95" class="small">假设面值1000元，年票息3%，每年付息，足额履约</text>
+<line x1="73" y1="216" x2="73" y2="263" stroke="#60737B" stroke-width="2"/>
+<rect x="40" y="130" width="640" height="112" rx="16" fill="white" stroke="none"/>
+<circle cx="73" cy="168" r="16" fill="#217C7E"/>
+<text x="67" y="175" class="small" style="fill:#FFFFFF">0</text>
+<text x="108" y="165" class="small">买入时</text>
+<text x="108" y="203" class="body">付出 1000 元</text>
+<text x="350" y="202" class="small">以面值买入；忽略税费</text>
+<line x1="73" y1="351" x2="73" y2="398" stroke="#60737B" stroke-width="2"/>
+<rect x="40" y="265" width="640" height="112" rx="16" fill="white" stroke="none"/>
+<circle cx="73" cy="303" r="16" fill="#217C7E"/>
+<text x="67" y="310" class="small" style="fill:#FFFFFF">1</text>
+<text x="108" y="300" class="small">第1年末</text>
+<text x="108" y="338" class="body">收到 30 元</text>
+<text x="350" y="337" class="small">1000 × 3% = 30</text>
+<line x1="73" y1="486" x2="73" y2="533" stroke="#60737B" stroke-width="2"/>
+<rect x="40" y="400" width="640" height="112" rx="16" fill="white" stroke="none"/>
+<circle cx="73" cy="438" r="16" fill="#217C7E"/>
+<text x="67" y="445" class="small" style="fill:#FFFFFF">2</text>
+<text x="108" y="435" class="small">第2年末</text>
+<text x="108" y="473" class="body">收到 30 元</text>
+<text x="350" y="472" class="small">再次收到一年的票息</text>
+<rect x="40" y="535" width="640" height="112" rx="16" fill="white" stroke="none"/>
+<circle cx="73" cy="573" r="16" fill="#217C7E"/>
+<text x="67" y="580" class="small" style="fill:#FFFFFF">3</text>
+<text x="108" y="570" class="small">第3年末</text>
+<text x="108" y="608" class="body">收到 1030 元</text>
+<text x="350" y="607" class="small">30元票息 + 1000元本金</text>
+<text x="40" y="710" class="small">合计收款1090元 = 归还本金1000元 + 利息90元</text>
+<text x="40" y="738" class="small">票息由合同约定；中途出售的价格仍可能变化。</text>
+</svg>

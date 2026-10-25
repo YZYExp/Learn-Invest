@@ -1,0 +1,45 @@
+[
+  {
+    "chapter": "05-cash-bonds",
+    "checked_date": "2026-10-23",
+    "sources": [
+      "https://www.finra.org/investors/insights/money-market-funds",
+      "https://www.investor.gov/introduction-investing/investing-basics/investment-products/bonds-or-fixed-income-products/bonds",
+      "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-86",
+      "https://www.asx.com.au/investors/learn-about-our-investment-solutions/bonds/risks-and-benefits",
+      "https://www.investor.gov/introduction-investing/investing-basics/glossary/bond-funds-and-income-funds"
+    ]
+  },
+  {
+    "chapter": "06-stocks",
+    "checked_date": "2026-10-23",
+    "sources": [
+      "https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks",
+      "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-84",
+      "https://www.finra.org/investors/investing/investment-products/stocks"
+    ]
+  },
+  {
+    "chapter": "07-funds",
+    "checked_date": "2026-10-23",
+    "sources": [
+      "https://www.moneysense.gov.sg/investments/understanding-unit-trusts/",
+      "https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-4",
+      "https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-2",
+      "https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-funds-etfs/mutual-funds"
+    ]
+  },
+  {
+    "chapter": "08-other-assets",
+    "checked_date": "2026-10-23",
+    "sources": [
+      "https://www.investor.gov/introduction-investing/investing-basics/investment-products/real-estate-investment-trusts-reits",
+      "https://edu.sse.com.cn/REITS/",
+      "https://www.moneysense.gov.sg/investments/understanding-real-estate-investment-trusts-reits/",
+      "https://www.fma.govt.nz/consumer/investing/types-of-investments/commodities/",
+      "https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/gold_is_no_safe_investment.htm",
+      "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/foreign",
+      "https://www.fca.org.uk/investsmart/investing-crypto"
+    ]
+  }
+]

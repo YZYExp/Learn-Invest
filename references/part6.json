@@ -1,0 +1,105 @@
+{
+  "checked_on": "2026-10-23",
+  "sources": [
+    {
+      "id": "allocation",
+      "title": "Asset Allocation and Diversification",
+      "url": "https://www.investor.gov/introduction-investing/getting-started/asset-allocation",
+      "chapters": [
+        21
+      ],
+      "kind": "official-investor-education",
+      "note": "Concept support only; numerical examples original."
+    },
+    {
+      "id": "emergency",
+      "title": "An essential guide to building an emergency fund",
+      "url": "https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/",
+      "chapters": [
+        21
+      ],
+      "kind": "official-investor-education",
+      "note": "Concept support only; numerical examples original."
+    },
+    {
+      "id": "rebalance-guide",
+      "title": "Beginners’ Guide to Asset Allocation, Diversification, and Rebalancing",
+      "url": "https://www.investor.gov/additional-resources/general-resources/publications-research/info-sheets/beginners-guide-asset",
+      "chapters": [
+        22
+      ],
+      "kind": "official-investor-education",
+      "note": "Concept support only; numerical examples original."
+    },
+    {
+      "id": "yearend",
+      "title": "Year-End Investment Considerations for Individual Investors",
+      "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-70",
+      "chapters": [
+        22
+      ],
+      "kind": "official-investor-education",
+      "note": "Concept support only; numerical examples original."
+    },
+    {
+      "id": "dca",
+      "title": "The Benefits and Limitations of Dollar-Cost Averaging",
+      "url": "https://www.finra.org/investors/insights/dollar-cost-averaging",
+      "chapters": [
+        23
+      ],
+      "kind": "official-investor-education",
+      "note": "Concept support only; numerical examples original."
+    },
+    {
+      "id": "fees",
+      "title": "How Fees and Expenses Affect Your Investment Portfolio",
+      "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated",
+      "chapters": [
+        23
+      ],
+      "kind": "official-investor-education",
+      "note": "Concept support only; numerical examples original."
+    },
+    {
+      "id": "international",
+      "title": "International Investing",
+      "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/international-investing",
+      "chapters": [
+        23
+      ],
+      "kind": "official-investor-education",
+      "note": "Concept support only; numerical examples original."
+    },
+    {
+      "id": "behavior",
+      "title": "Behavioral Patterns of U.S. Investors",
+      "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-72",
+      "chapters": [
+        24
+      ],
+      "kind": "official-investor-education",
+      "note": "Concept support only; numerical examples original."
+    },
+    {
+      "id": "fraud",
+      "title": "Red Flags of Investment Fraud Checklist",
+      "url": "https://www.investor.gov/protect-your-investments/fraud/how-avoid-fraud/red-flags-investment-fraud-checklist",
+      "chapters": [
+        24
+      ],
+      "kind": "official-investor-education",
+      "note": "Concept support only; numerical examples original."
+    },
+    {
+      "id": "ponzi",
+      "title": "Ponzi Scheme",
+      "url": "https://www.investor.gov/protect-your-investments/fraud/types-fraud/ponzi-scheme",
+      "chapters": [
+        24
+      ],
+      "kind": "official-investor-education",
+      "note": "Concept support only; numerical examples original."
+    }
+  ]
+}

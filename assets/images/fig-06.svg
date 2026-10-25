@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="800" viewBox="0 0 720 800" role="img" aria-label="图6  利润归属与实际分红">
+<rect width="720" height="800" fill="#F6F3EC"/>
+<style>text{font-family:"Noto Serif CJK SC","Microsoft YaHei",sans-serif;fill:#203340} .small{font-size:18px} .body{font-size:22px} .title{font-size:30px;font-weight:700}</style>
+<text x="40" y="58" class="title">图6  利润归属与实际分红</text>
+<text x="40" y="95" class="small">虚构企业：青禾面包；仅有同权普通股</text>
+<rect x="40" y="126" width="640" height="170" rx="16" fill="white" stroke="none"/>
+<text x="64" y="165" class="body">收入 100万元</text>
+<rect x="64" y="189" width="552" height="35" rx="6" fill="#217C7E" stroke="none"/>
+<rect x="64" y="189" width="496.8" height="35" rx="6" fill="#9AB9B4" stroke="none"/>
+<text x="64" y="260" class="small">成本、费用与税收 90万</text>
+<text x="458" y="260" class="small">净利润 10万</text>
+<text x="64" y="284" class="small">示意条按金额比例绘制</text>
+<rect x="40" y="325" width="640" height="174" rx="16" fill="white" stroke="none"/>
+<text x="64" y="365" class="body">总股数 10万股</text>
+<text x="64" y="406" class="body">你持有 1000股 ÷ 10万股 = 1%</text>
+<rect x="64" y="435" width="552" height="28" rx="5" fill="#DCE7E3" stroke="none"/>
+<rect x="64" y="435" width="5.52" height="28" rx="1" fill="#C68A39" stroke="none"/>
+<text x="64" y="485" class="small">金色部分表示持股比例1%</text>
+<rect x="40" y="528" width="640" height="172" rx="16" fill="white" stroke="none"/>
+<text x="64" y="570" class="body">对应当年净利润：10万元 × 1% = 1000元</text>
+<text x="64" y="614" class="body">若公司分配一半利润：实际分红 500元</text>
+<text x="64" y="659" class="small">其余利润留在公司，不是账户里的现金。</text>
+<text x="40" y="744" class="small">利润归属、实际分红与股票市值需要分别记录。</text>
+<text x="40" y="774" class="small">金额为简化教学假设，不代表真实公司回报。</text>
+</svg>

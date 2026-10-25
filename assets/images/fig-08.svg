@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="810" viewBox="0 0 720 810" role="img" aria-label="图8  先辨认收益来源，再比较回报">
+<rect width="720" height="810" fill="#F6F3EC"/>
+<style>text{font-family:"Noto Serif CJK SC","Microsoft YaHei",sans-serif;fill:#203340} .small{font-size:18px} .body{font-size:22px} .title{font-size:30px;font-weight:700}</style>
+<text x="40" y="58" class="title">图8  先辨认收益来源，再比较回报</text>
+<text x="40" y="95" class="small">以下是权利与成本对照，不是预期收益排行榜</text>
+<rect x="40" y="130" width="640" height="125" rx="16" fill="white" stroke="none"/>
+<rect x="40" y="130" width="8" height="125" rx="3" fill="#217C7E" stroke="none"/>
+<text x="64" y="163" class="body">直接持有出租物业</text>
+<text x="64" y="199" class="small">来源：租金、转售价差</text>
+<text x="64" y="234" class="small">成本与约束：维护、空置、税费、出售时间</text>
+<rect x="40" y="275" width="640" height="125" rx="16" fill="white" stroke="none"/>
+<rect x="40" y="275" width="8" height="125" rx="3" fill="#C68A39" stroke="none"/>
+<text x="64" y="308" class="body">REITs份额</text>
+<text x="64" y="344" class="small">来源：按产品条款分派、份额价差</text>
+<text x="64" y="379" class="small">还要看：底层经营、债务、费用、市场报价</text>
+<rect x="40" y="420" width="640" height="125" rx="16" fill="white" stroke="none"/>
+<rect x="40" y="420" width="8" height="125" rx="3" fill="#217C7E" stroke="none"/>
+<text x="64" y="453" class="body">实物黄金</text>
+<text x="64" y="489" class="small">来源：出售价格与买入成本之差</text>
+<text x="64" y="524" class="small">不会自行付息；另有价差、保管与汇率影响</text>
+<rect x="40" y="565" width="640" height="125" rx="16" fill="white" stroke="none"/>
+<rect x="40" y="565" width="8" height="125" rx="3" fill="#C68A39" stroke="none"/>
+<text x="64" y="598" class="body">外币与加密资产</text>
+<text x="64" y="634" class="small">外币：相对本币的汇率变化影响回报</text>
+<text x="64" y="669" class="small">代币：权利、储备和兑付条件需逐项核实</text>
+<text x="40" y="748" class="small">同一种底层对象，实物、基金与衍生品仍有不同合同。</text>
+<text x="40" y="780" class="small">共同问题：谁付款？付多少？何时能退出？</text>
+</svg>

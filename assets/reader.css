@@ -1,0 +1,10 @@
+body { font-family: serif; line-height: 1.8; margin: 4%; color: #182b36; }
+h1 { line-height: 1.4; color: #173f4d; margin-top: 1.4em; }
+h2 { line-height: 1.5; margin-top: 1.6em; }
+p { margin: 0.7em 0; }
+img { max-width: 100%; height: auto; }
+figure { margin: 1em 0; }
+figcaption, em { color: #425c67; }
+table { border-collapse: collapse; width: 100%; font-size: 0.9em; }
+th, td { border-bottom: 1px solid #d3dde0; padding: 0.5em; vertical-align: top; }
+a { color: #236e83; overflow-wrap: anywhere; }

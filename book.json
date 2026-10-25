@@ -196,5 +196,18 @@
       "source": "chapters/24-review.md",
       "slug": "24-review"
     }
+  ],
+  "cover": "assets/images/cover.png",
+  "front_matter": [
+    {
+      "source": "appendices/00-reading-guide.md",
+      "title": "导读"
+    }
+  ],
+  "back_matter": [
+    {
+      "source": "appendices/25-toolbox.md",
+      "title": "判断表与词汇"
+    }
   ]
 }

@@ -1,0 +1,659 @@
+[
+  {
+    "url": "https://www.finra.org/investors/insights/how-avoid-bad-financial-luck-friday-13th",
+    "labels": [
+      "财务规划教育资料",
+      "Avoid Bad Financial Luck This Friday the 13th With These Financial Tips"
+    ],
+    "chapters": [
+      "01-money"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/what-risk",
+    "labels": [
+      "Investor.gov的风险说明",
+      "What is Risk?",
+      "Investor.gov的风险分类"
+    ],
+    "chapters": [
+      "01-money",
+      "03-risk"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-47",
+    "labels": [
+      "业绩宣传教育资料",
+      "Investor Bulletin: Performance Claims"
+    ],
+    "chapters": [
+      "02-returns"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated",
+    "labels": [
+      "费用教育资料",
+      "How Fees and Expenses Affect Your Investment Portfolio",
+      "SEC的费用说明"
+    ],
+    "chapters": [
+      "02-returns",
+      "23-execution"
+    ]
+  },
+  {
+    "url": "https://www.finra.org/investors/investing/investing-basics/risk",
+    "labels": [
+      "FINRA的风险说明",
+      "Risk"
+    ],
+    "chapters": [
+      "03-risk"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/save-and-invest/gauge-your-risk-tolerance",
+    "labels": [
+      "Investor.gov的风险承受教育",
+      "Gauge Your Risk Tolerance"
+    ],
+    "chapters": [
+      "03-risk"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/additional-resources/information/youth/teachers-classroom-resources/what-compound-interest",
+    "labels": [
+      "Investor.gov的复利教学",
+      "What is compound interest?"
+    ],
+    "chapters": [
+      "04-time"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/getting-started/asset-allocation",
+    "labels": [
+      "Investor.gov的资产配置资料",
+      "Asset Allocation and Diversification",
+      "Investor.gov资产配置介绍"
+    ],
+    "chapters": [
+      "04-time",
+      "21-plan"
+    ]
+  },
+  {
+    "url": "https://www.finra.org/investors/insights/money-market-funds",
+    "labels": [
+      "FINRA关于货币市场基金的说明",
+      "Taking a Look at Money Market Funds"
+    ],
+    "chapters": [
+      "05-cash-bonds"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/bonds-or-fixed-income-products/bonds",
+    "labels": [
+      "Investor.gov的债券介绍",
+      "Bonds"
+    ],
+    "chapters": [
+      "05-cash-bonds"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-86",
+    "labels": [
+      "SEC利率风险说明",
+      "Fixed Income Investments—Interest Rate Risk",
+      "SEC：固定利率债券的利率风险"
+    ],
+    "chapters": [
+      "05-cash-bonds",
+      "17-rates"
+    ]
+  },
+  {
+    "url": "https://www.asx.com.au/investors/learn-about-our-investment-solutions/bonds/risks-and-benefits",
+    "labels": [
+      "澳大利亚证券交易所的债券风险说明",
+      "Bonds: Risks and Benefits"
+    ],
+    "chapters": [
+      "05-cash-bonds"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/bond-funds-and-income-funds",
+    "labels": [
+      "Investor.gov的债券基金说明",
+      "Bond Funds and Income Funds"
+    ],
+    "chapters": [
+      "05-cash-bonds"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks",
+    "labels": [
+      "Investor.gov的股票入门",
+      "Stocks",
+      "资料：Investor.gov，Stocks",
+      "Investor.gov：Stocks"
+    ],
+    "chapters": [
+      "06-stocks",
+      "16-shareholder"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-84",
+    "labels": [
+      "SEC关于破产与股票的说明",
+      "Investor Bulletin: Bankruptcy for a Public Company"
+    ],
+    "chapters": [
+      "06-stocks"
+    ]
+  },
+  {
+    "url": "https://www.finra.org/investors/investing/investment-products/stocks",
+    "labels": [
+      "FINRA关于股票的介绍",
+      "Stocks",
+      "FINRA的股票介绍",
+      "FINRA：股票及其风险"
+    ],
+    "chapters": [
+      "06-stocks",
+      "20-narratives"
+    ]
+  },
+  {
+    "url": "https://www.moneysense.gov.sg/investments/understanding-unit-trusts/",
+    "labels": [
+      "MoneySense的基金介绍",
+      "Understanding Unit Trusts"
+    ],
+    "chapters": [
+      "07-funds"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-4",
+    "labels": [
+      "Investor.gov的指数基金说明",
+      "Index Funds"
+    ],
+    "chapters": [
+      "07-funds"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-2",
+    "labels": [
+      "Investor.gov的ETF介绍",
+      "Exchange-Traded Funds"
+    ],
+    "chapters": [
+      "07-funds"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-funds-etfs/mutual-funds",
+    "labels": [
+      "Investor.gov的共同基金介绍",
+      "Mutual Funds"
+    ],
+    "chapters": [
+      "07-funds"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/real-estate-investment-trusts-reits",
+    "labels": [
+      "Investor.gov的REITs介绍",
+      "Real Estate Investment Trusts"
+    ],
+    "chapters": [
+      "08-other-assets"
+    ]
+  },
+  {
+    "url": "https://edu.sse.com.cn/REITS/",
+    "labels": [
+      "上交所投资者教育介绍",
+      "基础设施公募REITs投资者教育"
+    ],
+    "chapters": [
+      "08-other-assets"
+    ]
+  },
+  {
+    "url": "https://www.moneysense.gov.sg/investments/understanding-real-estate-investment-trusts-reits/",
+    "labels": [
+      "MoneySense关于REITs的说明",
+      "Understanding REITs"
+    ],
+    "chapters": [
+      "08-other-assets"
+    ]
+  },
+  {
+    "url": "https://www.fma.govt.nz/consumer/investing/types-of-investments/commodities/",
+    "labels": [
+      "新西兰金融市场管理局的商品说明",
+      "Gold and Other Commodities"
+    ],
+    "chapters": [
+      "08-other-assets"
+    ]
+  },
+  {
+    "url": "https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/gold_is_no_safe_investment.htm",
+    "labels": [
+      "美国商品期货交易委员会的黄金投资提示",
+      "Gold Isn’t Always a Safe Investment"
+    ],
+    "chapters": [
+      "08-other-assets"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/foreign",
+    "labels": [
+      "SEC外汇交易说明",
+      "Foreign Currency Exchange Trading"
+    ],
+    "chapters": [
+      "08-other-assets"
+    ]
+  },
+  {
+    "url": "https://www.fca.org.uk/investsmart/investing-crypto",
+    "labels": [
+      "英国金融行为监管局的介绍",
+      "Investing in Crypto"
+    ],
+    "chapters": [
+      "08-other-assets"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-17",
+    "labels": [
+      "SEC关于IPO的说明",
+      "原文"
+    ],
+    "chapters": [
+      "09-primary-secondary"
+    ]
+  },
+  {
+    "url": "https://live.deutsche-boerse.com/en/know-how/glossary/secondary-market",
+    "labels": [
+      "德国交易所的二级市场释义",
+      "原文"
+    ],
+    "chapters": [
+      "09-primary-secondary"
+    ]
+  },
+  {
+    "url": "https://www.sec.gov/resources-small-businesses/glossary",
+    "labels": [
+      "原文",
+      "SEC术语表"
+    ],
+    "chapters": [
+      "09-primary-secondary",
+      "10-orders"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/types-orders",
+    "labels": [
+      "Investor.gov的订单类型说明",
+      "原文",
+      "SEC：订单类型"
+    ],
+    "chapters": [
+      "10-orders",
+      "19-flows"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-15",
+    "labels": [
+      "SEC关于止损类订单的说明",
+      "原文"
+    ],
+    "chapters": [
+      "10-orders"
+    ]
+  },
+  {
+    "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/universal/c/c_20260424_10816492.shtml",
+    "labels": [
+      "上交所现行规则及附件",
+      "规则页"
+    ],
+    "chapters": [
+      "11-market-rules"
+    ]
+  },
+  {
+    "url": "https://www.hkex.com.hk/Services/Settlement-and-Depository/Settlement?sc_lang=en",
+    "labels": [
+      "交收说明",
+      "证券交收"
+    ],
+    "chapters": [
+      "11-market-rules"
+    ]
+  },
+  {
+    "url": "https://www.hkex.com.hk/Services/Settlement-and-Depository/T1-Settlement-for-the-Hong-Kong-Cash-Market?sc_lang=en",
+    "labels": [
+      "T+1专题页面",
+      "T+1计划"
+    ],
+    "chapters": [
+      "11-market-rules"
+    ]
+  },
+  {
+    "url": "https://www.hkex.com.hk/Global/Exchange/FAQ/Securities-Market/Trading?sc_lang=en",
+    "labels": [
+      "港交所证券交易FAQ"
+    ],
+    "chapters": [
+      "11-market-rules"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/new-t1-settlement-cycle-what-investors-need-know-investor-bulletin",
+    "labels": [
+      "SEC投资者公告",
+      "T+1公告"
+    ],
+    "chapters": [
+      "11-market-rules"
+    ]
+  },
+  {
+    "url": "https://www.finra.org/investors/insights/guardrails-market-volatility",
+    "labels": [
+      "FINRA波动保护说明",
+      "波动保护机制"
+    ],
+    "chapters": [
+      "11-market-rules"
+    ]
+  },
+  {
+    "url": "https://www.hkex.com.hk/-/media/HKEX-Market/Mutual-Market/Stock-Connect/Getting-Started/Information-Booklet-and-FAQ/Information-Book-for-Investors/Investor_Book_En.pdf",
+    "labels": [
+      "互联互通投资者手册"
+    ],
+    "chapters": [
+      "11-market-rules"
+    ]
+  },
+  {
+    "url": "https://www.finra.org/investors/insights/margin-calls",
+    "labels": [
+      "FINRA关于追加保证金的说明",
+      "原文"
+    ],
+    "chapters": [
+      "12-leverage"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-29",
+    "labels": [
+      "SEC保证金账户公告",
+      "原文"
+    ],
+    "chapters": [
+      "12-leverage"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-51",
+    "labels": [
+      "SEC做空入门公告",
+      "原文"
+    ],
+    "chapters": [
+      "12-leverage"
+    ]
+  },
+  {
+    "url": "https://www.finra.org/investors/investing/investment-products/options",
+    "labels": [
+      "FINRA期权说明",
+      "原文"
+    ],
+    "chapters": [
+      "12-leverage"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/getting-started/researching-investments/how-read-10-k",
+    "labels": [
+      "资料：Investor.gov，How to Read a 10-K",
+      "Investor.gov：How to Read a 10-K",
+      "资料：Investor.gov，年报阅读指引"
+    ],
+    "chapters": [
+      "13-business",
+      "14-statements"
+    ]
+  },
+  {
+    "url": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+    "labels": [
+      "资料：SEC，Beginners’ Guide to Financial Statements",
+      "SEC：Beginners’ Guide to Financial Statements"
+    ],
+    "chapters": [
+      "14-statements"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/price-earnings-pe-ratio",
+    "labels": [
+      "Investor.gov 的 P/E 词条",
+      "Investor.gov：Price-earnings (P/E) Ratio"
+    ],
+    "chapters": [
+      "15-valuation"
+    ]
+  },
+  {
+    "url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/equity-valuation-applications-and-processes",
+    "labels": [
+      "CFA Institute 关于股票估值模型的概述",
+      "CFA Institute：Equity Valuation: Applications and Processes"
+    ],
+    "chapters": [
+      "15-valuation"
+    ]
+  },
+  {
+    "url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/analysis-of-dividends-and-share-repurchases",
+    "labels": [
+      "资料：CFA Institute，Analysis of Dividends and Share Repurchases",
+      "CFA Institute：Analysis of Dividends and Share Repurchases"
+    ],
+    "chapters": [
+      "16-shareholder"
+    ]
+  },
+  {
+    "url": "https://www.federalreserve.gov/monetarypolicy/monetary-policy-what-are-its-goals-how-does-it-work.htm",
+    "labels": [
+      "货币政策传导说明",
+      "美联储：货币政策如何运作"
+    ],
+    "chapters": [
+      "17-rates"
+    ]
+  },
+  {
+    "url": "https://www.rba.gov.au/education/resources/explainers/the-transmission-of-monetary-policy.html",
+    "labels": [
+      "澳大利亚储备银行的传导图解",
+      "RBA：货币政策传导"
+    ],
+    "chapters": [
+      "17-rates"
+    ]
+  },
+  {
+    "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
+    "labels": [
+      "GDP",
+      "BEA：GDP"
+    ],
+    "chapters": [
+      "18-cycle"
+    ]
+  },
+  {
+    "url": "https://www.bea.gov/data/income-saving/corporate-profits",
+    "labels": [
+      "企业利润",
+      "BEA：企业利润"
+    ],
+    "chapters": [
+      "18-cycle"
+    ]
+  },
+  {
+    "url": "https://www.bea.gov/help/glossary/recession",
+    "labels": [
+      "连续两个季度GDP负增长并不等于其官方衰退认定",
+      "BEA：衰退术语说明"
+    ],
+    "chapters": [
+      "18-cycle"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/executing-order",
+    "labels": [
+      "SEC的订单执行介绍",
+      "SEC：订单执行"
+    ],
+    "chapters": [
+      "19-flows"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/market-capitalization",
+    "labels": [
+      "市值的定义",
+      "Investor.gov：市值定义"
+    ],
+    "chapters": [
+      "19-flows"
+    ]
+  },
+  {
+    "url": "https://www.finra.org/investors/insights/social-sentiment-investing-tools",
+    "labels": [
+      "社交情绪工具的投资者公告",
+      "SEC与FINRA：社交情绪投资工具公告"
+    ],
+    "chapters": [
+      "20-narratives"
+    ]
+  },
+  {
+    "url": "https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/",
+    "labels": [
+      "应急资金",
+      "An essential guide to building an emergency fund"
+    ],
+    "chapters": [
+      "21-plan"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/additional-resources/general-resources/publications-research/info-sheets/beginners-guide-asset",
+    "labels": [
+      "Investor.gov的入门资料",
+      "Beginners’ Guide to Asset Allocation, Diversification, and Rebalancing"
+    ],
+    "chapters": [
+      "22-allocation"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-70",
+    "labels": [
+      "SEC与FINRA的年末投资事项说明",
+      "Year-End Investment Considerations for Individual Investors"
+    ],
+    "chapters": [
+      "22-allocation"
+    ]
+  },
+  {
+    "url": "https://www.finra.org/investors/insights/dollar-cost-averaging",
+    "labels": [
+      "FINRA对定投的解释",
+      "The Benefits and Limitations of Dollar-Cost Averaging"
+    ],
+    "chapters": [
+      "23-execution"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/international-investing",
+    "labels": [
+      "Investor.gov的国际投资介绍",
+      "International Investing"
+    ],
+    "chapters": [
+      "23-execution"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-72",
+    "labels": [
+      "投资者公告",
+      "Behavioral Patterns of U.S. Investors"
+    ],
+    "chapters": [
+      "24-review"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/protect-your-investments/fraud/how-avoid-fraud/red-flags-investment-fraud-checklist",
+    "labels": [
+      "投资诈骗信号",
+      "Red Flags of Investment Fraud Checklist"
+    ],
+    "chapters": [
+      "24-review"
+    ]
+  },
+  {
+    "url": "https://www.investor.gov/protect-your-investments/fraud/types-fraud/ponzi-scheme",
+    "labels": [
+      "庞氏骗局",
+      "Ponzi Scheme"
+    ],
+    "chapters": [
+      "24-review"
+    ]
+  }
+]

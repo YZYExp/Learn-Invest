@@ -1,0 +1,55 @@
+{
+  "checked": "2026-10-23",
+  "sources": [
+    {
+      "organization": "SEC",
+      "title": "Beginners’ Guide to Financial Statements",
+      "url": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+      "chapters": [
+        14
+      ]
+    },
+    {
+      "organization": "Investor.gov",
+      "title": "How to Read a 10-K",
+      "url": "https://www.investor.gov/introduction-investing/getting-started/researching-investments/how-read-10-k",
+      "chapters": [
+        13,
+        14
+      ]
+    },
+    {
+      "organization": "Investor.gov",
+      "title": "Price-earnings (P/E) Ratio",
+      "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/price-earnings-pe-ratio",
+      "chapters": [
+        15
+      ]
+    },
+    {
+      "organization": "Investor.gov",
+      "title": "Stocks",
+      "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks",
+      "chapters": [
+        16
+      ]
+    },
+    {
+      "organization": "CFA Institute",
+      "title": "Equity Valuation: Applications and Processes",
+      "url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/equity-valuation-applications-and-processes",
+      "chapters": [
+        15
+      ]
+    },
+    {
+      "organization": "CFA Institute",
+      "title": "Analysis of Dividends and Share Repurchases",
+      "url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/analysis-of-dividends-and-share-repurchases",
+      "chapters": [
+        16
+      ]
+    }
+  ],
+  "note": "数字案例为原创假设。首要来源为概念与阅读方法���对，无历史投资回报数据。"
+}

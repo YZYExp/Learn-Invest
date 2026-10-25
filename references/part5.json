@@ -1,0 +1,112 @@
+[
+  {
+    "id": "fed-transmission",
+    "institution": "Federal Reserve",
+    "title": "Monetary Policy: What Are Its Goals? How Does It Work?",
+    "url": "https://www.federalreserve.gov/monetarypolicy/monetary-policy-what-are-its-goals-how-does-it-work.htm",
+    "chapters": [
+      17
+    ],
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "sec-rate-risk",
+    "institution": "Investor.gov / SEC",
+    "title": "Fixed Income Investments: Interest Rate Risk",
+    "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-86",
+    "chapters": [
+      17
+    ],
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "rba-transmission",
+    "institution": "Reserve Bank of Australia",
+    "title": "The Transmission of Monetary Policy",
+    "url": "https://www.rba.gov.au/education/resources/explainers/the-transmission-of-monetary-policy.html",
+    "chapters": [
+      17
+    ],
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "bea-gdp",
+    "institution": "BEA",
+    "title": "Gross Domestic Product",
+    "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
+    "chapters": [
+      18
+    ],
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "bea-profits",
+    "institution": "BEA",
+    "title": "Corporate Profits",
+    "url": "https://www.bea.gov/data/income-saving/corporate-profits",
+    "chapters": [
+      18
+    ],
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "bea-recession",
+    "institution": "BEA",
+    "title": "Recession",
+    "url": "https://www.bea.gov/help/glossary/recession",
+    "chapters": [
+      18
+    ],
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "sec-execution",
+    "institution": "Investor.gov / SEC",
+    "title": "Executing an Order",
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/executing-order",
+    "chapters": [
+      19
+    ],
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "sec-orders",
+    "institution": "Investor.gov / SEC",
+    "title": "Types of Orders",
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/types-orders",
+    "chapters": [
+      19
+    ],
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "sec-marketcap",
+    "institution": "Investor.gov / SEC",
+    "title": "Market Capitalization",
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/market-capitalization",
+    "chapters": [
+      19
+    ],
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "finra-stocks",
+    "institution": "FINRA",
+    "title": "Stocks",
+    "url": "https://www.finra.org/investors/investing/investment-products/stocks",
+    "chapters": [
+      20
+    ],
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "finra-sentiment",
+    "institution": "FINRA / SEC",
+    "title": "Social Sentiment Investing Tools",
+    "url": "https://www.finra.org/investors/insights/social-sentiment-investing-tools",
+    "chapters": [
+      20
+    ],
+    "checked": "2026-10-23"
+  }
+]

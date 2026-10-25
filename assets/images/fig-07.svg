@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="780" viewBox="0 0 720 780" role="img" aria-label="图7  一只基金的组合回报">
+<rect width="720" height="780" fill="#F6F3EC"/>
+<style>text{font-family:"Noto Serif CJK SC","Microsoft YaHei",sans-serif;fill:#203340} .small{font-size:18px} .body{font-size:22px} .title{font-size:30px;font-weight:700}</style>
+<text x="40" y="58" class="title">图7  一只基金的组合回报</text>
+<text x="40" y="95" class="small">假设无费用、无负债、份额不变；甲乙均为虚构资产</text>
+<rect x="40" y="128" width="640" height="108" rx="16" fill="white" stroke="none"/>
+<text x="64" y="167" class="body">起点：净资产100万元 / 100万份</text>
+<text x="64" y="208" class="body">每份净值 1元</text>
+<rect x="40" y="264" width="312" height="170" rx="16" fill="white" stroke="none"/>
+<rect x="368" y="264" width="312" height="170" rx="16" fill="white" stroke="none"/>
+<text x="64" y="302" class="body">甲资产：权重60%</text>
+<text x="392" y="302" class="body">乙资产：权重40%</text>
+<text x="64" y="343" class="body">60万元 × 1.10</text>
+<text x="392" y="343" class="body">40万元 × 0.95</text>
+<text x="64" y="391" class="body" style="fill:#217C7E">变为66万元</text>
+<text x="392" y="391" class="body" style="fill:#C68A39">变为38万元</text>
+<text x="64" y="420" class="small">价格上涨10%</text>
+<text x="392" y="420" class="small">价格下跌5%</text>
+<rect x="40" y="463" width="640" height="168" rx="16" fill="white" stroke="none"/>
+<text x="64" y="507" class="body">新净资产：66 + 38 = 104万元</text>
+<text x="64" y="551" class="body">新净值：104万元 / 100万份 = 1.04元</text>
+<text x="64" y="596" class="body">组合回报 = 60% × 10% + 40% × (−5%)</text>
+<text x="40" y="680" class="body">结果：+4%，不是两种涨跌幅的简单平均。</text>
+<text x="40" y="724" class="small">看懂基金要穿透到资产及其权重。</text>
+<text x="40" y="754" class="small">基金是集合投资方式；底层资产决定主要风险来源。</text>
+</svg>
